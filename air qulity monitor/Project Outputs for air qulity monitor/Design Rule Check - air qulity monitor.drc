@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\GitHub\Air-Qulity-monitor\air qulity monitor\air qulity monitor.PcbDoc
 Date     : 30/11/2022
-Time     : 14:21:50
+Time     : 17:29:18
 
 Processing Rule : Clearance Constraint (Gap=5.984mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
