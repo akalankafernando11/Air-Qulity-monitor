@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=PMS5003 NewDesignator=PMS5003 PM2.5 Sensor
+Change Component Description : Designator=R4 Old Description=62.5mW 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS New Description=62.5mW 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R5 Old Description=62.5mW 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS New Description=62.5mW 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=AMS1117 Old Description=75dB@(120Hz) 1A 1.25V@(1A) ±125?@(Tj) Fixed 3.3V~3.3V Positive 1 20V SOT-89 Linear Voltage Regulators (LDO) ROHS New Description=
+75dB@(120Hz) 1A 1.25V@(1A) ±125?@(Tj) Fixed 3.3V~3.3V Positive 1 20V SOT-89 Linear Voltage Regulators (LDO) ROHS
+Change component parameters: Designator = "R4"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\FNRYMORP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301715_YAGEO-RC0402FR-0710KL_C60490.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\FXVMCFAL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301715_YAGEO-RC0402FR-0710KL_C60490.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Room: Name=5V to 3.3V regulator
+Added Room: Name=air qulity monitor

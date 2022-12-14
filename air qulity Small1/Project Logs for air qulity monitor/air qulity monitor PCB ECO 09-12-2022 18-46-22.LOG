@@ -1,0 +1,3 @@
+Change Component Comment : Designator=SSD1306 Old Comment=Pin Header x4 - Display New Comment=Display
+Added Room: Name=5V to 3.3V regulator
+Added Room: Name=air qulity monitor
