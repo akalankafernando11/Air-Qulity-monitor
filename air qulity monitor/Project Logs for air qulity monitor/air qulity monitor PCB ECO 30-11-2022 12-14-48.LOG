@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=DOUT1 Pin=P2-2
-Removed Pin From Net: NetName=NetM1_20 Pin=P2-3
-Removed Pin From Net: NetName=GND Pin=P2-4
-Added Pin To Net: NetName=GND Pin=P2-2
-Added Pin To Net: NetName=DOUT1 Pin=P2-3
-Added Pin To Net: NetName=NetM1_20 Pin=P2-4
-Added Room: Name=5V to 3.3V regulator
-Added Room: Name=air qulity monitor

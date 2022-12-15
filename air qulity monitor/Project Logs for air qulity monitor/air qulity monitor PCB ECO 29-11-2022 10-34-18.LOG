@@ -1,4 +1,0 @@
-Change Component Comment : Designator=P6 Old Comment=Header 4 New Comment=ZE08-CH2O sensor Header
-Change Component Designator: OldDesignator=PMS5003 NewDesignator=PMS5003 PM2.5 Sensor
-Added Room: Name=5V to 3.3V regulator
-Added Room: Name=air qulity monitor

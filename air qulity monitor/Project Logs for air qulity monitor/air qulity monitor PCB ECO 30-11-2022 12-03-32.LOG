@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=5V Pin=J2-1
-Added Pin To Net: NetName=NetJ1_1 Pin=J2-1
-Added Room: Name=5V to 3.3V regulator
-Added Room: Name=air qulity monitor

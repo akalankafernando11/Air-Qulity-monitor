@@ -6,3 +6,5 @@
 **/History/
 # Altium metadata file
 *.PcbDoc.htm
+# Altium Logs file
+*/Project Logs for air qulity monitor/
