@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: air qulity monitor with air purifire.PcbDoc   19/12/2022  17:00:40
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : air qulity monitor with air purifire.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             19        PTH        0.00inch (0.00mm)
+T2      29mil (0.74mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             37        PTH        0.00inch (0.00mm)
+T5      37mil (0.95mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T6      38mil (0.96mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T7      39mil (1mm)                                               Round             8         PTH        0.00inch (0.00mm)
+T8      40mil (1.02mm)                                            Round             35        PTH        0.00inch (0.00mm)
+T9      99mil (2.517mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              115
+
+Total Processing Time (hh:mm:ss) : 00:00:00
