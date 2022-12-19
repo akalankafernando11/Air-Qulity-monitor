@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AOSHZVQT
 
 [Document2]
-DocumentPath=air qulity monitor.PcbDoc
+DocumentPath=air qulity monitor with air purifire.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CVFYGFKF
+DocumentUniqueId=EBFHOTUQ
 
 [Document3]
 DocumentPath=Library\AMS1117-3.3.LibPkg
@@ -905,23 +905,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document52]
-DocumentPath=air qulity monitor with air purifire.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EBFHOTUQ
-
-[Document53]
 DocumentPath=Library\SK3245SL1A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=Library\SK-3245S-L1-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
