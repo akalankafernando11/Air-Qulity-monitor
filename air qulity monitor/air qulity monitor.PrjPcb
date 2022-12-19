@@ -377,10 +377,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJZBHLFL
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for air qulity monitor\Design Rule Check - air qulity monitor.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

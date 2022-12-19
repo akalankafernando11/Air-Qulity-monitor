@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for air qulity monitor
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YMHOFETZ
+DocumentUniqueId=TRFTAUAV
 
 [Document14]
 DocumentPath=Library\Modules.PcbLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YJJKMWDF
+DocumentUniqueId=REVKHNVE
 
 [Document19]
 DocumentPath=..\air qulity monitor\Library\AMPHENOL_10118192-0001LF.PcbLib
@@ -409,7 +409,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DXJSUPKV
+DocumentUniqueId=NAGQAABB
 
 [Document23]
 DocumentPath=..\air qulity monitor\Library\CAPC1005X70N.PcbLib
@@ -443,7 +443,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CIYNEBCP
+DocumentUniqueId=MAMBOPVG
 
 [Document25]
 DocumentPath=..\air qulity monitor\Library\display.PcbLib
@@ -477,7 +477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OJXDPYPP
+DocumentUniqueId=KJKVOBOB
 
 [Document27]
 DocumentPath=..\air qulity monitor\Library\DIY Air Quality Monitor Library.PcbLib
@@ -511,7 +511,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DUEWXDXW
+DocumentUniqueId=YMHOFETZ
 
 [Document29]
 DocumentPath=..\air qulity monitor\Library\Integrated_Library2.LibPkg
@@ -562,7 +562,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MTNVYTOP
+DocumentUniqueId=FYHKOJWV
 
 [Document32]
 DocumentPath=..\air qulity monitor\Library\SCD30.PcbLib
@@ -596,7 +596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PYPBBCFX
+DocumentUniqueId=UWRLTHCU
 
 [Document34]
 DocumentPath=Library\3296X-1-103.SchLib
@@ -904,8 +904,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document52]
+DocumentPath=air qulity monitor with air purifire.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EBFHOTUQ
+
+[Document53]
+DocumentPath=Library\SK3245SL1A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document54]
+DocumentPath=Library\SK-3245S-L1-A.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LDBQLRML
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for air qulity monitor\Design Rule Check - air qulity monitor.html
+DocumentPath=Project Outputs for air qulity monitor\Design Rule Check - air qulity monitor with air purifire.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -955,7 +1006,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for air qulity monitor
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
